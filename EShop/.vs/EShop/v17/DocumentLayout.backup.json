@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCVal\\Desktop\\EShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\EShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\EShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\CosDeCumparaturi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\CosDeCumparaturi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi clienti.txt||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\Conturi clienti.txt||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Statistici Vanzari.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\Statistici Vanzari.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi Administratori.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\Conturi Administratori.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Eshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDBB6FEF-3E3B-4980-B072-37BEABCB382B}|EShop\\EShop.vcxproj|solutionrelative:EShop\\Eshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EShop.cpp",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\EShop.cpp",
+              "RelativeDocumentMoniker": "EShop\\EShop.cpp",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\EShop.cpp",
+              "RelativeToolTip": "EShop\\EShop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T08:31:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Statistici Vanzari.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Statistici Vanzari.txt",
+              "RelativeDocumentMoniker": "EShop\\Statistici Vanzari.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Statistici Vanzari.txt",
+              "RelativeToolTip": "EShop\\Statistici Vanzari.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T18:15:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conturi Administratori.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi Administratori.txt",
+              "RelativeDocumentMoniker": "EShop\\Conturi Administratori.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi Administratori.txt",
+              "RelativeToolTip": "EShop\\Conturi Administratori.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T18:14:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conturi Clienti.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi Clienti.txt",
+              "RelativeDocumentMoniker": "EShop\\Conturi Clienti.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Conturi Clienti.txt",
+              "RelativeToolTip": "EShop\\Conturi Clienti.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T18:14:11.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Readme.txt",
+              "RelativeDocumentMoniker": "EShop\\Readme.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Readme.txt",
+              "RelativeToolTip": "EShop\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T18:00:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosDeCumparaturi.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\CosDeCumparaturi.txt",
+              "RelativeDocumentMoniker": "EShop\\CosDeCumparaturi.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\CosDeCumparaturi.txt",
+              "RelativeToolTip": "EShop\\CosDeCumparaturi.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T08:34:31.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eshop.txt",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Eshop.txt",
+              "RelativeDocumentMoniker": "EShop\\Eshop.txt",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\EShop\\EShop\\Eshop.txt",
+              "RelativeToolTip": "EShop\\Eshop.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-18T08:31:03.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
