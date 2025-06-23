@@ -1,0 +1,16 @@
+Categorie: Fructe
+Banana 2.6 20
+Portocala 3.4 43
+
+Categorie: Carti
+Praslea cel voinic 20 122
+Enigma Otiliei 22 43
+Secretul lui Stefan cel Mare Vol.2 57 4
+
+Categorie: Mobile si tablete:
+Telefon Xiaomi 4 603.5 10
+Tableta Samsung D5 1430.4 2
+
+Categorie: Calculatoare si accesorii:
+Calculator gaming RedTwo 1205 3
+Cablu HDMI.1.4 35 5
